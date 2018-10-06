@@ -1,0 +1,33 @@
+.navbar-brand {
+  line-height: 20px;
+  color: black;
+}
+/* .butter {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0; */
+
+.text {
+  color: #777;
+}
+.dropdown-toggle {
+  color: #777;
+}
+
+.col-xs-8 {
+  width: 66.66666667%;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.capitalize btn btn-default :hover {
+  background-color: red;
+}
+.btn-default {
+  text-shadow: 0 1px 0 #fff;
+  background-image: linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+  background-repeat: repeat-x;
+  border-color: #ccc;
+}
